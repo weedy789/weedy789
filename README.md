@@ -1,6 +1,7 @@
 -  Hi, I’m @weedy789
 -  I’m interested in Linux and FOSS 
 -  I’m currently studying CompSci
+-  Adi1090x is my hero
 -  I use Arch Btw xD
 
 <!---
